@@ -55,5 +55,5 @@ This eCommerce website allows users to browse, filter, and purchase a variety of
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-website.git
-cd ecommerce-website
+git clone [https://github.com/your-username/ecommerce-website.git](https://github.com/ANUKULUNJ/lavish-e-commerce.git
+
