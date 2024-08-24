@@ -39,12 +39,10 @@ This eCommerce website allows users to browse, filter, and purchase a variety of
 
 ## Technologies Used
 
-- **Frontend**: React, HTML, CSS, Bootstrap/TailwindCSS
+- **Frontend**: React, HTML, CSS,TailwindCSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **Payment Integration**: Stripe/PayPal
-- **Deployment**: Vercel/Netlify (Frontend), Heroku/DigitalOcean (Backend)
 
 ## Setup Instructions
 
